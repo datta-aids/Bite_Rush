@@ -1,0 +1,6 @@
+{
+  "name": "BiteRush - Fast Food Delivery",
+  "description": "BiteRush: Your Cravings. Our Rush. Order hot burgers, artisanal pizzas, crispy fries, momos, combos and desserts with live order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
